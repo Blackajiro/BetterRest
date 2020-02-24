@@ -2,6 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:../../../Desktop/BetterRest 1.mlmodel">
+   </FileRef>
+   <FileRef
       location = "self:BetterRest.xcodeproj">
    </FileRef>
 </Workspace>

@@ -13,6 +13,7 @@
 		7605E85B2403334100DDEFFA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7605E85A2403334100DDEFFA /* Assets.xcassets */; };
 		7605E85E2403334100DDEFFA /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7605E85D2403334100DDEFFA /* Preview Assets.xcassets */; };
 		7605E8612403334100DDEFFA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7605E85F2403334100DDEFFA /* LaunchScreen.storyboard */; };
+		7605E86F24045B6400DDEFFA /* SleepCalculator.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = 7605E86E24045B6400DDEFFA /* SleepCalculator.mlmodel */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		7605E85D2403334100DDEFFA /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		7605E8602403334100DDEFFA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		7605E8622403334100DDEFFA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7605E86E24045B6400DDEFFA /* SleepCalculator.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; name = SleepCalculator.mlmodel; path = ../../../Desktop/SleepCalculator.mlmodel; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 				7605E85A2403334100DDEFFA /* Assets.xcassets */,
 				7605E85F2403334100DDEFFA /* LaunchScreen.storyboard */,
 				7605E8622403334100DDEFFA /* Info.plist */,
+				7605E86E24045B6400DDEFFA /* SleepCalculator.mlmodel */,
 				7605E85C2403334100DDEFFA /* Preview Content */,
 			);
 			path = BetterRest;
@@ -148,6 +151,7 @@
 			files = (
 				7605E8552403334100DDEFFA /* AppDelegate.swift in Sources */,
 				7605E8572403334100DDEFFA /* SceneDelegate.swift in Sources */,
+				7605E86F24045B6400DDEFFA /* SleepCalculator.mlmodel in Sources */,
 				7605E8592403334100DDEFFA /* ContentView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
